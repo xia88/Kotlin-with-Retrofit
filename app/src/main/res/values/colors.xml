@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Harris Kristanto on 10/2/20 9:51 PM
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 10/1/20 9:58 PM
+  ~  */
+  -->
+
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
